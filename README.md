@@ -8,7 +8,7 @@ This repository contains an **Excel risk register template** to help with risk s
 🎀 **Pink Header Sections** for Visual Clarity
 🎀 **Risk Score Formula** Explanation with an Example
 🎀 **Professional, Easy-To-Understand Layout**
-🎀 **Dedicated Legend Tab** for interpreting risk scores and color indicators
+🎀 **Dedicated Legend Tab** for interpreting risk scores and colour indicators
 
 ---
 
