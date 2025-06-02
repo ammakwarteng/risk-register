@@ -25,3 +25,7 @@ This repository contains an **Excel risk register template** to help with risk s
 
 If **Likelihood** = 4 and **Impact** = 5, then:
 🎀 **Risk Score** = 4 x 5 = 20 (High Risk)
+
+---
+
+🎀 Thank you for checking out this project — **enjoy using it and making it your own!** 🎀
