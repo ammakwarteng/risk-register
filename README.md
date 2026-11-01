@@ -29,3 +29,12 @@ If **Likelihood** = 4 and **Impact** = 5, then:
 ---
 
 🎀 Thank you for checking out this project — **enjoy using it and making it your own!** 🎀
+
+---
+
+## 🎀 Cybersecurity Portfolio Site 🎀
+
+The `docs/` folder holds my portfolio site, which tracks my certifications, labs, projects and learning journal.
+
+- **To update it:** edit `docs/data.js` only. Change a `status` to `"done"` and add a link to your proof.
+- **To publish it:** go to repo **Settings → Pages**, set Source to *Deploy from a branch*, then choose `main` and the `/docs` folder.
